@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo React
 - 📫 Contato: loure.juli@gmail.com
 - 😄 Pronomes: Ela/Dela
 
