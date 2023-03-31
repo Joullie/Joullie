@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Aprendendo React
+- 🌱 Estudando React
 - 📫 Contato: loure.juli@gmail.com
 - 😄 Pronomes: Ela/Dela
 
