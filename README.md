@@ -2,7 +2,6 @@
 
 - 🌱 Studying React
 - 📫 Contact: loure.juli@gmail.com
-- 😄 Pronouns: Ela/Dela
 
 <div>
   <a href="https://beacons.ai/Joullie">
