@@ -1,4 +1,4 @@
-## Olá!
+## Hello!
 
 - 🌱 Studying React
 - 📫 Contact: loure.juli@gmail.com
