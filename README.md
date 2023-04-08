@@ -1,8 +1,8 @@
 ## Olá!
 
-- 🌱 Estudando React
-- 📫 Contato: loure.juli@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 🌱 Studying React
+- 📫 Contact: loure.juli@gmail.com
+- 😄 Pronouns: Ela/Dela
 
 <div>
   <a href="https://beacons.ai/Joullie">
