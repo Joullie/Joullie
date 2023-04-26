@@ -2,6 +2,7 @@
 
 - 🌱 Studying React
 - 📫 Contact: loure.juli@gmail.com
+- <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
 
 <div>
   <a href="https://beacons.ai/Joullie">
