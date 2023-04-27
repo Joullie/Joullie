@@ -5,9 +5,7 @@
 - <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
 
 <div>
-  <a href="https://beacons.ai/Joullie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joullie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joullie&layout=compact&langs_count=16&theme=dracula"/>
+
   
   
 </div>
