@@ -1,5 +1,7 @@
 ## Hello!
 
+I am a student of Systems Analysis and Development at Descomplica, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical experience in React, Java, and MySQL.
+
 - 🌱 Studying React
 - 📫 Contact: loure.juli@gmail.com
 - <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
