@@ -7,6 +7,12 @@ I am a student of Systems Analysis and Development at Descomplica, with a specia
 - 🐘 <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
 
 <div>
+<a href="https://github.com/joullie/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joullie&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/joullie/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joullie&layout=compact&theme=dracula" />
+</a>
 
   
   
