@@ -4,7 +4,7 @@ I am a student of Systems Analysis and Development at Descomplica, with a specia
 
 - 🌱 Studying React
 - 📫 Contact: loure.juli@gmail.com
-- <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
 
 <div>
 
