@@ -2,7 +2,7 @@
 
 I am a student of Systems Analysis and Development, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical exphttps://github.com/Joullie/Joullie/blob/main/README.mderience in React.
 
-- 🌱 Studying React
+- 🌱 Studying Vue.js
 - 📫 Contact: loure.juli@gmail.com
 - 🐘 <a rel="me" href="https://mastodon.social/@julianarosa">Mastodon</a>
 
