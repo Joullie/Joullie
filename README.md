@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a student of Systems Analysis and Development, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical exphttps://github.com/Joullie/Joullie/blob/main/README.mderience in React.
+I am a student of Systems Analysis and Development, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical experience in React.
 
 - 🌱 Studying Vue.js
 - 📫 Contact: loure.juli@gmail.com
