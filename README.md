@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a student of Systems Analysis and Development, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical experience in React.
+I am a student of Systems Analysis and Development, with a special interest in Front-End Development. Currently, I am acquiring knowledge and practical experience in Vue.js.
 
 - 🌱 Studying Vue.js
 - 📫 Contact: loure.juli@gmail.com
